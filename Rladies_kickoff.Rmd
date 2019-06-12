@@ -1,0 +1,166 @@
+---
+title: "R-ladies Ottawa"
+subtitle: "Kickoff event"
+author: "Stephanie Houle"
+date: "March 28, 2019"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Intro and agenda
+
+ - R and R-Ladies mission statement
+ - Committee introductions
+ - Future events
+ - Networking activity
+ 
+
+ 
+ .footnote[
+Thank you to SurveyMonkey for donating this space.
+]
+
+
+.right[![](R-LadiesGlobal_Horizontal.png)]
+
+
+---
+
+# History of R
+
+  - In 1992, Ross Ihaka and Robert Gentleman at the University of Auckland
+
+  - Merged *S* and *Scheme* to create *R*
+
+  - In 1995, they made R's source code available under a free software licence
+
+  - The creation of the Comprehensive R Archive Network (CRAN)
+
+  - In 2000, the R project released R version 1.0.0 for public use
+ 
+ .footnote[Link to article: [25 Years of R](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-08-11_R-Generation-25-Years-of-R.pdf)]
+
+---
+
+# R-ladies Global
+
+In 2012, Gabriela De Queiroz founded the first chapter of R-Ladies in San Francisco.
+
+Some statistics for gender representation in the R community: $^{[1]}$
+
+ - 14.8% package authors on CRAN are "female". (Mar 2016 processed with *genderizer*)
+ - In 2010, 9% of package authors were women.
+ - At useR! 2016, saw a rise in the proportion of female attendees from 19% to 28%.
+
+
+There are 134 R-Ladies Global chapters in 41 countries
+
+[Taskforce on Women in the R Community](https://forwards.github.io/)
+
+.footnote[[1]Statistics from (https://forwards.github.io/data/)]
+
+---
+
+# Ottawa Chapter
+
+  - Mission statement is to promotes gender diversity in the R community via meetups and mentorship in a friendly and safe environment.
+
+  - Plan on hosting quarterly events to help develop your R skills and network with other Ottawa R-Ladies.
+
+  - Follow us on Twitter @RladiesOttawa and join our meetup group (https://www.meetup.com/en-AU/rladies-ottawa/)
+
+---
+
+# Member Slides
+
+## Stephanie Houle
+
+  - **Where I work:** Statistics Canada
+  - **What do I work on:** Firm-level and individual-level econometric analysis
+  - **Data sources I use:** Canadian administrative tax data, import/export registry and some survey data
+  - **Favourite R package:** thesisdown (with notable mentions to caret and  purrr)
+  - **R ambition:** Incorporate more R tools at Stats Can. Including using R markdown to produce research papers.
+
+
+---
+
+# Member Slides
+
+## Elham Sirag
+
+  - **Where I work:** Statistics Canada (Demography)
+  - **What do I work on:** National and sub-national population projections
+  - **Data sources I use:** Census data, from Statistics Canada's Demographic Estimates Program (DEP)
+  - **Favourite R package:** dplyr
+  - **R ambition:** build an R package or packages for internal use to increase efficiency of certain tasks within my team/section
+
+
+---
+
+# Member Slides
+
+## Megan Kirby
+
+  - **Where I work:** Statistics Canada
+  - **What do I work on:** Hedonic quality adjustments for price indexes
+  - **Data sources I use:** Administrative data from IDC (International Data Corporation)
+  - **Favourite R package:** knitr
+  - **R ambition:** Incorporate R in the production of price indexes.  
+
+
+---
+
+# Member Slides
+
+## Michelle Fairbrother
+
+  - **Where I work:** Water Survey of Canada
+  - **What do I work on:** Water quantity data analysis for Canadian inland waters
+  - **Data sources I use:** National Water Data Archive (HYDAT)
+  - **Favourite R package:** R Markdown
+  - **R ambition:** Bring R tools to my new position for Environmental Assessment applications
+
+---
+
+# Member Slides
+
+## Deirdre Hennessy
+
+  - **Where I work:** Statistics Canada
+  - **What do I work on/Data sources I use:** Health survey and health admin data, health micro simulation
+  - **Favourite packages:** dplyr, tidyverse in general 
+  - **R ambition:** To make a Shiny app!
+
+---
+
+# Events to come
+
+Packages of interest: 
+  - tidyverse 
+  - R markdown 
+  - leaflet
+  - plotly
+  - furrr
+  - blogdown
+  - ...
+
+Advanced R topics: 
+ - Space and speed saving tips for big data.
+ - Using pipes and purrr efficiently
+ - ...
+
+We need your feedback!
+
+---
+
+class: center, middle
+
+# Thank you!
+
+![](global.jpeg)
+
